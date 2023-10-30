@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Entregable 1</string>
+    <string name="BotonInicio">Inicio</string>
+    <string name="BotonRegistrarse">Registrarse</string>
+    <string name="tv1">Inicio</string>
+    <string name="tv2">Login1</string>
+    <string name="menu_option1">Opcion1</string>
+    <string name="menu_option2">Opcion1</string>
+    <string name="Opción1" />
+    <string name="Opción2" />
+
+
+</resources>
